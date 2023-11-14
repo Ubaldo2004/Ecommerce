@@ -1,0 +1,15 @@
+.divDolar{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+
+@media (max-width: 767.98px) { 
+    .divDolar{
+        display: block;
+    }
+    
+}
